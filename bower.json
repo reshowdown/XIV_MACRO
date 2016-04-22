@@ -1,0 +1,13 @@
+{
+  "name": "XIV_MACRO",
+  "version": "0.0.0",
+  "authors": [
+    "reshowdown <reshowdown@gmail.com>"
+  ],
+  "description": "web app for xiv user",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}

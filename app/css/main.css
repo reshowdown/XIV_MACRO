@@ -1,0 +1,11 @@
+div #detail_macro {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+.well-detail p{
+  /* margin: 0 auto; */
+}
+
+.modal-body .form-control {
+  margin-bottom: 10px !important;
+}
